@@ -1,0 +1,22 @@
+  footer section {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 50%;
+  }
+
+  .left ul {
+      font-size: 1.4rem;
+      font-weight: 500;
+      line-height: 1.8rem;
+      list-style: none;
+  }
+
+  .left li {
+      margin: 10px 0;
+  }
+
+  .left a {
+      text-decoration: none;
+      color: var(--just-white);
+  }
